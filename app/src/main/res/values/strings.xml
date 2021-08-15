@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SushiBlade02</string>
+    <string-array name="sushi_list">
+        <item>Maguro</item>
+        <item>Hamachi</item>
+        <item>Salmon</item>
+        <item>Kohada</item>
+        <item>Ikura</item>
+    </string-array>
+
+</resources>
